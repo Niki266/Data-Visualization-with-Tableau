@@ -17,4 +17,3 @@ Welcome to **Data Visualization with Tableau**, a project that demonstrates the 
 
 - **Tableau**: Industry-leading tool for data visualization and dashboard creation.
 - **Data Sources**: Integrated with various datasets to build meaningful insights.
-
